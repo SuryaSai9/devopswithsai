@@ -1,2 +1,3 @@
 creating my project
 editing in the console
+editing from the browser
