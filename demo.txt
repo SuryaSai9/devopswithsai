@@ -2,3 +2,4 @@ creating my project
 editing in the console
 editing from the local
 editing from the browser
+testing pull with out conflicts
